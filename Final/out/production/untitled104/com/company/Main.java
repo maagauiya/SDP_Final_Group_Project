@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         //Observer
        /*Subscriber student1=new Subscriber("Bekarys",201361);
-       Subscriber student2=new Subscriber("Aldick",201362);
+       Subscriber student2=new Subscriber("Aldyk",201362);
        Subscriber student3=new Subscriber("Nurken",201362);
 
         BIR_FIT_FORUMS pool_club= new BIR_FIT_FORUMS();
